@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm_parent.iml" filepath="$PROJECT_DIR$/ssm_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_parent_controler/ssm_parent_controler.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_parent_controler/ssm_parent_controler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_parent_dao/ssm_parent_dao.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_parent_dao/ssm_parent_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_parent_domain/ssm_parent_domain.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_parent_domain/ssm_parent_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_parent_service/ssm_parent_service.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_parent_service/ssm_parent_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_parent_utils/ssm_parent_utils.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_parent_utils/ssm_parent_utils.iml" />
+    </modules>
+  </component>
+</project>
